@@ -1,4 +1,8 @@
-﻿@page "/counter"
+﻿@* @page "/counter" *@
+@* @page "/counter/{initialCount}" *@
+@* @page "/counter/{initialCount?}" *@
+@page "/counter/{initialCount:int?}"
+@page "/counter2"
 @rendermode Microsoft.AspNetCore.Components.Web.RenderMode.InteractiveServer
 
 <PageTitle>Counter</PageTitle>
@@ -9,26 +13,37 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
-@if (currentCount > 3)
+<p>InitialCount=@InitialCount</p>
+
+@* @if (currentCount > 3)
 {
-    <p>You win!</p>
+<p>You win!</p>
 }
 
 <ul>
-    @for (int i = 0; i < currentCount; i++)
-    {
-        <li>Clicked</li>
-    }
-</ul>
+@for (int i = 0; i < currentCount; i++)
+{
+<li>Clicked</li>
+}
+</ul> *@
 
 @code {
     private int currentCount = 0;
 
+    protected override void OnInitialized()
+    {
+        currentCount = InitialCount;
+    }
+
+    @* [Parameter]
+public int IncrementAmount { get; set; } = 1; *@
     [Parameter]
-    public int IncrementAmount { get; set; } = 1;
+    @* public string InitialCount { get; set; } *@
+    public int InitialCount { get; set; }
 
     private void IncrementCount()
     {
-        currentCount = currentCount + IncrementAmount;
+        currentCount++;
+        @* currentCount = currentCount + IncrementAmount; *@
     }
 }
