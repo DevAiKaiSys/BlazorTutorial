@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontEnd_Beginners.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FrontEnd_Beginners.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FrontEnd_Beginners.props",
+      "PackagePath": "build\\FrontEnd_Beginners.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontEnd_Beginners.props",
+      "PackagePath": "buildMultiTargeting\\FrontEnd_Beginners.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FrontEnd_Beginners.props",
+      "PackagePath": "buildTransitive\\FrontEnd_Beginners.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
