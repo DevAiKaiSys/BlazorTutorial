@@ -1,0 +1,20 @@
+﻿@* <button @onclick="OnButtonClick">Click me!</button> *@
+@* <button @onclick="OnClick">Click me!</button> *@
+@* <button @onclick="OnClick">@ChildContent</button> *@
+<button @onclick="OnClick" @attributes="AdditionalAttributes">@ChildContent</button>
+
+@code {
+    [Parameter]
+    public EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs> OnClick { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object> AdditionalAttributes { get; set; }
+
+    @* private Task OnButtonClick(Microsoft.AspNetCore.Components.Web.MouseEventArgs e)
+{
+return OnClick.InvokeAsync(e);
+} *@
+}
