@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iQ53BGzjukbSj7kVr3AL0d1gUk0N4J93nm1zJN4YAfc=",
+  "Hash": "7xWD0bd9qaQAHLFbeaS3IWgBuXpqIvWW43qytX56VFw=",
   "Source": "FrontEnd_Beginners",
   "BasePath": "_content/FrontEnd_Beginners",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FrontEnd_Beginners\\wwwroot",
       "Source": "FrontEnd_Beginners",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontEnd_Beginners.styles.css",
+      "Identity": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontEnd_Beginners.styles.css",
       "SourceId": "FrontEnd_Beginners",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "RelativePath": "FrontEnd_Beginners.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontEnd_Beginners.styles.css"
+      "OriginalItemSpec": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FrontEnd_Beginners.styles.css"
     },
     {
-      "Identity": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css",
+      "Identity": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css",
       "SourceId": "FrontEnd_Beginners",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "RelativePath": "FrontEnd_Beginners.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\app.css",
+      "Identity": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\app.css",
       "SourceId": "FrontEnd_Beginners",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "FrontEnd_Beginners",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "FrontEnd_Beginners",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\favicon.png",
+      "Identity": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\favicon.png",
       "SourceId": "FrontEnd_Beginners",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
+      "ContentRoot": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\",
       "BasePath": "_content/FrontEnd_Beginners",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

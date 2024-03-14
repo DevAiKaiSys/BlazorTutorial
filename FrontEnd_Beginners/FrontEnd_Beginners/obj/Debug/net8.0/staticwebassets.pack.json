@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css",
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEnd_Beginners.bundle.scp.css",
       "PackagePath": "staticwebassets\\FrontEnd_Beginners.bundle.scp.css"
     },
     {
-      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\app.css",
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\CelesticaWork\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\favicon.png",
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\FrontEnd_Beginners\\FrontEnd_Beginners\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
