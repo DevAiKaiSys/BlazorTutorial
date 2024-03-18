@@ -1,15 +1,19 @@
-Component->Pages
-Add->New Scaffolded Item...
-Razor Component->Razor Components using Entity Framework (CRUD)->Add-
+Component->Pages<br/>
+Add->New Scaffolded Item...<br/>
+Razor Component->Razor Components using Entity Framework (CRUD)->Add-<br/>
 
-Template->CRUD
-Model class->Movie class
-DbContext class->+->Add
-Database provider->SQL Server
+Template->CRUD<br/>
+Model class->Movie class<br/>
+DbContext class->+->Add<br/>
+Database provider->SQL Server<br/>
 
-Tool->NuGet Package Manager->Package Manager Console
-PM> Add-Migration Movie
+![Alt text](./AddRazorComponents.png "Optional title")
+
+Tool->NuGet Package Manager->Package Manager Console<br/>
+PM> Add-Migration Movie<br/>
+PM> Update-Database<br/>
 
 # QuickGrid
 
-[samples](https://aspnet.github.io/quickgridsamples/)
+[QuickGrid for Blazor](https://aspnet.github.io/quickgridsamples/)
+
