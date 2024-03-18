@@ -1,0 +1,38 @@
+﻿@page "/todo"
+@rendermode Microsoft.AspNetCore.Components.Web.RenderMode.InteractiveServer
+
+<h3>Todo (@todos.Count(t => !t.IsDone))</h3>
+
+<ul>
+    @foreach (var todo in todos)
+    {
+        @* <li>@todo.Title</li> *@
+        <li>
+            <input type=checkbox @bind="todo.IsDone">
+            <input @bind="todo.Title">
+        </li>
+    }
+</ul>
+
+<input @bind="newTodo">
+<button @onclick="AddTodo">Add todo</button>
+
+@code {
+    List<TodoItem> todos = new List<TodoItem>();
+    string newTodo = "";
+
+    public class TodoItem
+    {
+        public string Title { get; set; }
+        public bool IsDone { get; set; }
+    }
+
+    private void AddTodo(Microsoft.AspNetCore.Components.Web.MouseEventArgs e)
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem { Title = newTodo });
+            newTodo = "";
+        }
+    }
+}

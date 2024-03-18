@@ -27,6 +27,14 @@
 
 <div style="background-color:lightblue" @onmouseover="MouseOver" @onmouseout="MouseOut">@divText</div>
 
+<div class="btn btn-primary">
+    @* <input value="@text" @onchange="OnChange"> *@
+    <input @bind="text" @bind:event="oninput" @bind:after="Search">
+    <button @onclick="OnClick">Clear</button>
+    <p>@text</p>
+    <p>@searchResult</p>
+</div>
+
 @* <p>InitialCount=@InitialCount</p> *@
 
 @* @if (currentCount > 3)
@@ -43,10 +51,9 @@
 
 @code {
     private int currentCount = 0;
-
     string text = "";
-
     string divText = "Mouse out";
+    string searchResult = "";
 
     @* protected override void OnInitialized()
 {
@@ -86,4 +93,21 @@ text = (string)e.Value!;
     private void MouseOver(Microsoft.AspNetCore.Components.Web.MouseEventArgs e) => divText = "Mouse over";
 
     private void MouseOut(Microsoft.AspNetCore.Components.Web.MouseEventArgs e) => divText = "Mouse out";
+
+    private void OnChange(ChangeEventArgs e)
+    {
+        text = (string)e.Value!;
+    }
+
+    private void OnClick(Microsoft.AspNetCore.Components.Web.MouseEventArgs e)
+    {
+        text = "";
+    }
+
+    async Task Search()
+    {
+        searchResult = "Searching...";
+        await Task.Delay(2000);
+        searchResult = $"Found {Random.Shared.Next()} results!";
+    }
 }
