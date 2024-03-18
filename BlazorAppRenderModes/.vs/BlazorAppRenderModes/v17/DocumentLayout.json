@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAF17FB-A51D-4955-B953-68327AFDB0A0}|BlazorAppRenderModes\\BlazorAppRenderModes.csproj|c:\\engr_coderepo\\celesticawork\\learn\\blazortutorial\\blazorapprendermodes\\blazorapprendermodes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EAF17FB-A51D-4955-B953-68327AFDB0A0}|BlazorAppRenderModes\\BlazorAppRenderModes.csproj|solutionrelative:blazorapprendermodes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A974169-D7EC-4C31-BCD7-EF9033F1B941}|BlazorAppRenderModes.Client\\BlazorAppRenderModes.Client.csproj|c:\\engr_coderepo\\celesticawork\\learn\\blazortutorial\\blazorapprendermodes\\blazorapprendermodes.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A974169-D7EC-4C31-BCD7-EF9033F1B941}|BlazorAppRenderModes.Client\\BlazorAppRenderModes.Client.csproj|solutionrelative:blazorapprendermodes.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorAppRenderModes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorAppRenderModes\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T04:23:13.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAppRenderModes.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAppRenderModes.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T04:21:20.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

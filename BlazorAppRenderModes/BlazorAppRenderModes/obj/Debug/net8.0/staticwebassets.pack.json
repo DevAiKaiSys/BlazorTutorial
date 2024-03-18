@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppRenderModes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorAppRenderModes.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorAppRenderModes\\BlazorAppRenderModes\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorAppRenderModes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorAppRenderModes.props",
+      "PackagePath": "build\\BlazorAppRenderModes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppRenderModes.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppRenderModes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppRenderModes.props",
+      "PackagePath": "buildTransitive\\BlazorAppRenderModes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
