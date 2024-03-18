@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4767281A-2DFB-4285-850A-C9385AC6DE1E}|BlazorMovieApp\\BlazorMovieApp.csproj|c:\\engr_coderepo\\celesticawork\\learn\\blazortutorial\\blazormovieapp\\blazormovieapp\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4767281A-2DFB-4285-850A-C9385AC6DE1E}|BlazorMovieApp\\BlazorMovieApp.csproj|solutionrelative:blazormovieapp\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4767281A-2DFB-4285-850A-C9385AC6DE1E}|BlazorMovieApp\\BlazorMovieApp.csproj|c:\\engr_coderepo\\celesticawork\\learn\\blazortutorial\\blazormovieapp\\blazormovieapp\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4767281A-2DFB-4285-850A-C9385AC6DE1E}|BlazorMovieApp\\BlazorMovieApp.csproj|solutionrelative:blazormovieapp\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4767281A-2DFB-4285-850A-C9385AC6DE1E}|BlazorMovieApp\\BlazorMovieApp.csproj|c:\\engr_coderepo\\celesticawork\\learn\\blazortutorial\\blazormovieapp\\blazormovieapp\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4767281A-2DFB-4285-850A-C9385AC6DE1E}|BlazorMovieApp\\BlazorMovieApp.csproj|solutionrelative:blazormovieapp\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-18T05:38:55.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\BlazorMovieApp\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeDocumentMoniker": "BlazorMovieApp\\Components\\Pages\\MoviePages\\Create.razor",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\BlazorMovieApp\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeToolTip": "BlazorMovieApp\\Components\\Pages\\MoviePages\\Create.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T05:23:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\BlazorMovieApp\\Components\\Pages\\MoviePages\\Edit.razor",
+              "RelativeDocumentMoniker": "BlazorMovieApp\\Components\\Pages\\MoviePages\\Edit.razor",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\BlazorMovieApp\\Components\\Pages\\MoviePages\\Edit.razor",
+              "RelativeToolTip": "BlazorMovieApp\\Components\\Pages\\MoviePages\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T05:22:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\BlazorMovieApp\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorMovieApp\\Components\\Pages\\MoviePages\\Index.razor",
+              "ToolTip": "C:\\Engr_CodeRepo\\CelesticaWork\\Learn\\BlazorTutorial\\BlazorMovieApp\\BlazorMovieApp\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeToolTip": "BlazorMovieApp\\Components\\Pages\\MoviePages\\Index.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T05:22:14.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
